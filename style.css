@@ -1,5 +1,5 @@
 * {
-  font-family: "Montserrat",sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
@@ -7,6 +7,7 @@
 
 body {
   background-color: #acb0b4;
+  font-size: 0.85em;
 }
 
 .container {
