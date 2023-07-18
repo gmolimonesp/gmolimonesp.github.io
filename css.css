@@ -52,7 +52,7 @@ body {
   align-items: center;
 }
 
-.container .card-one .contact-box>* .text{
+.container .card-one .contact-box>* .text {
   display: inline-flex;
   word-break: break-all;
 }
