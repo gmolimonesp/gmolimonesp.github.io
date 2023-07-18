@@ -151,3 +151,8 @@ body {
 .container .card-two .group-2 .desc ul:last-of-type li::before {
   content: none;
 }
+
+.container .card-two .group-2 .desc ul li div:last-of-type {
+  color: #b89258;
+  font-weight: bold;
+}
