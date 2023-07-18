@@ -192,3 +192,12 @@ body {
   height: 100px;
   border-left: 2px solid #b89258;
 }
+
+.container .card-two .group-3 ul li div:nth-child(2) {
+  color: #b89258;
+  font-weight: bold;
+}
+
+.container .card-two .group-3 .desc ul:last-of-type li::before {
+  content: none;
+}
