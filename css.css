@@ -69,3 +69,17 @@ body {
   border-radius: 50%;
   margin-left: 4px;
 }
+
+.container .card-one .personal-box .dot.active {
+  color: #b89258
+}
+
+.container .card-one .hobbies-box {
+  margin-top: 35px;
+}
+
+.container .card-one .hobbies-box .logo {
+  margin: 10px 0px;
+  display: grid;
+  grid-template: 1fr 1fr/1fr 1fr;
+}
