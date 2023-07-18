@@ -85,3 +85,10 @@ body {
   font-size: 2.8em;
   grid-row-gap: 15px;
 }
+
+.container .card-two {
+  background-color: #173c62;
+  padding: 40px 20px;
+  padding-right: 75px;
+  color: #b5b5b4;
+}
