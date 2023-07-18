@@ -123,7 +123,7 @@ body {
   margin-top: 20px;
   margin-left: 5px;
 }
-.container .card-two .group-2 .desc ul:before {
+.container .card-two .group-2 .desc ul::before {
   content: "";
   position: absolute;
   top: 12px;
@@ -155,4 +155,40 @@ body {
 .container .card-two .group-2 .desc ul li div:last-of-type {
   color: #b89258;
   font-weight: bold;
+}
+
+.container .card-two .group-3 .desc {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.container .card-two .group-3 .desc ul {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.container .card-two .group-3 .desc ul::before {
+  content: "";
+  position: absolute;
+  top: 30px;
+  left: -22px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #b89258;
+}
+
+.container .card-two .group-3 .desc ul li {
+  list-style-type: none;
+  position: relative;
+}
+
+.container .card-two .group-3 .desc ul li::before {
+  content: "";
+  position: absolute;
+  top: 30px;
+  left: -18px;
+  height: 100px;
+  border-left: 2px solid #b89258;
 }
