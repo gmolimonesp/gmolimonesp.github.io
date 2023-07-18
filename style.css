@@ -201,3 +201,14 @@ body {
 .container .card-two .group-3 .desc ul:last-of-type li::before {
   content: none;
 }
+
+@media print {
+  @page {
+    margin: 0;
+    size: letter;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact;
+  }
+}
