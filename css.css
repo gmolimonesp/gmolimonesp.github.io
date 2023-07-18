@@ -71,7 +71,7 @@ body {
 }
 
 .container .card-one .personal-box .dot.active {
-  color: #b89258;
+  background-color: #b89258;
 }
 
 .container .card-one .hobbies-box {
