@@ -11,7 +11,7 @@ body {
 }
 
 .small {
-  font-size: small;
+  font-size: x-small;
 }
 
 .container {
@@ -150,7 +150,7 @@ body {
   position: absolute;
   top: 12px;
   left: -18px;
-  height: 60px;
+  height: 70px;
   border-left: 2px solid #b89258;
 }
 
@@ -195,8 +195,12 @@ body {
   position: absolute;
   top: 30px;
   left: -18px;
-  height: 200px;
+  height: 180px;
   border-left: 2px solid #b89258;
+}
+
+.container .card-two .group-3 ul li div:nth-child(1) {
+  font-weight: bold;
 }
 
 .container .card-two .group-3 ul li div:nth-child(2) {
