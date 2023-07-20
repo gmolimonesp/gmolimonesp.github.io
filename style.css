@@ -52,7 +52,7 @@ body {
 .container .card-one .contact-box>* {
   width: 100%;
   display: grid;
-  grid-template-columns: 0.3fr 1fr;
+  grid-template-columns: 0.1fr 1fr;
   margin-top: 25px;
   align-items: center;
 }
