@@ -12,6 +12,7 @@ body {
 
 .small {
   font-size: small;
+	letter-spacing: -0.1em;
 }
 
 .container {
